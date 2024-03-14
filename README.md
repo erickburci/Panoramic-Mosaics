@@ -1,6 +1,9 @@
+
+![Screenshot 2024-03-13 172546](https://github.com/erickburci/Panoramic-Mosaics/assets/159087967/dff54625-3643-4937-a724-88b48a9ead9f)
+
 # Creating Image Mosaics using Homographies 
 
-**see**
+***see PanoramicMosaics.pynb file for code***
 
 In this project, I will align and blend together multiple photographs 
 to form a panorama mosaic that extends the field of view of a camera.
@@ -124,6 +127,7 @@ parameter sigma in order to get good featering of the edges.
 ![Screenshot 2024-03-13 172354](https://github.com/erickburci/Panoramic-Mosaics/assets/159087967/e7e8482c-1b5f-4b4f-b181-d9b537b5562c)
 ![Screenshot 2024-03-13 172347](https://github.com/erickburci/Panoramic-Mosaics/assets/159087967/7d6c261b-5436-4583-92b7-68801bab3718)
 ![Screenshot 2024-03-13 172341](https://github.com/erickburci/Panoramic-Mosaics/assets/159087967/211ee5c2-253a-4914-bccf-41b287312161)
+![Screenshot 2024-03-13 172407](https://github.com/erickburci/Panoramic-Mosaics/assets/159087967/fcf6800e-5a9c-417f-9943-7cab991b4749)
 
 
 
