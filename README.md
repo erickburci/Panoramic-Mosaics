@@ -3,7 +3,7 @@
 
 # Creating Image Mosaics using Homographies 
 
-***see PanoramicMosaics.pynb file for code***
+***see PanoramaProject.ipynb file for code***
 
 In this project, I will align and blend together multiple photographs 
 to form a panorama mosaic that extends the field of view of a camera.
